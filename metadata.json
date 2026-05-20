@@ -1,0 +1,6 @@
+{
+  "name": "Mobile X Service",
+  "description": "Premium landing page for Mobile X Service gadget repair at ITC Permata Hijau with interactive AI repair diagnosis and WordPress copyable code templates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
